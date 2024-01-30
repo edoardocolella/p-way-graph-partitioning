@@ -1,2 +1,0 @@
-threads,time,cutsize,min_partition,max_partition,avg_partition,median_partition,std_dev
-4,6493,9599946,865613,1760736,1309570,1301170,208721
